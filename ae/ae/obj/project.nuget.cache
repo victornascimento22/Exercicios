@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J2m7rsCgYIGKalX204VwxHyyO71BE+06yXcdCwTPoZUDV6wkOKRTaCzwpdi7L2S9jQQ8VHm10zoaUg8qi02Taw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guest01\\Desktop\\ExerciciosProcedural\\ae\\ae\\ae.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guest01\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

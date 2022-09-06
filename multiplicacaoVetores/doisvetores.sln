@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doisvetores", "doisvetores\doisvetores.csproj", "{DC2A136E-131E-4020-B7DA-E91BC404BB69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC2A136E-131E-4020-B7DA-E91BC404BB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2A136E-131E-4020-B7DA-E91BC404BB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2A136E-131E-4020-B7DA-E91BC404BB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2A136E-131E-4020-B7DA-E91BC404BB69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E432DA38-E410-4D02-BAF6-19FE28A9D822}
+	EndGlobalSection
+EndGlobal
